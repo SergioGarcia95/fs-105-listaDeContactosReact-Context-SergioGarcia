@@ -15,6 +15,7 @@ const Main = () => {
                 </RouterProvider>
             </StoreProvider>
         </React.StrictMode>
+    
     );
 }
 
